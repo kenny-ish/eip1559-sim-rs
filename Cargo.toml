@@ -1,0 +1,8 @@
+[package]
+name = "eip1559-sim-rs"
+version = "0.1.0"
+edition = "2021"
+description = "EIP-1559 base fee simulation"
+license = "MIT"
+
+[dependencies]
